@@ -44,6 +44,8 @@ allow tracket to do same step multi times (x#)  DONE
                                            
 open report in OTD                              partial -add ability to go to specific report
 file report on mail                             working on
+Add setup.py                                    todo
+Add first time run configuration tool           todo
 basic gui					working on - add rep and tracking
 integrate prod migration into gui               todo
 rework mouse jiggler to use singleton metaclass todo

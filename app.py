@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import messagebox, font, ttk
-import sqlite3
 import json
 import menu
 from constants import *
