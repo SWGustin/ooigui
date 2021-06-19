@@ -1,0 +1,9 @@
+Migration <MIGRATION DATE>: <SUMMARY>.  
+
+Background: <BACKGROUND>.  
+
+Solution: <SOLUTION>.
+
+Test: This fix was tested and approved by <TESTEDBY> and in <ENVS>.
+
+SQL Scripts: <SCRIPTS>.

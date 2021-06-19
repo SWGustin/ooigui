@@ -1,0 +1,67 @@
+Roadmap
+========================================================
+jiggle mouse                                    DONE
+jiggle mouse in another process                 DONE
+jiggle mouse Scheduler                          DONE
+open edge                                       DONE
+open IE                                         DONE
+navigate to webpage                             DONE
+tell if program has opened                      DONE
+check if webpage is open                        DONE
+check refresh of gentax pages                   DONE
+open OTD to harness                             DONE
+open FCR to harness                             DONE
+open OTD to login                               DONE
+open FCR to login                               DONE
+open letter type in OTD                         DONE
+open sql server to certian env                  DONE
+open outlook                                    DONE
+implement help file access                      DONE 
+track clicks to file                            DONE
+repeat clicks from file                         DONE
+define a process to do in gui                   DONE
+repeat procress on a series of tracked clicks   DONE
+get confirmation as a step in repetitions       DONE
+allow setting of default pause in tracker       DONE
+let repeater wait for screen to update(by url#) DONE
+log tracked processes to DB                     DONE
+allow program to add processes                  DONE
+format mail checklist                           DONE (first draft)
+read instructions from checklist                DONE
+allow private and public saved functions        DONE
+only show public functions on run command       DONE
+allow tracker to track scrolling                DONE
+create process iterator class                   DONE
+prod migration template                         DONE
+reporting abc                                   DONE
+File prod migration                             DONE
+modify tracker and repeater to be file format
+    agnostic for processsesfile                 DONE
+allow recursive inner proc in repeater
+    use precense of repeat to trigger inner     DONE
+allow tracker to undo steps                     DONE
+allow tracket to do same step multi times (x#)  DONE
+                                           
+open report in OTD                              partial -add ability to go to specific report
+file report on mail                             working on
+basic gui					working on - add rep and tracking
+integrate prod migration into gui               todo
+rework mouse jiggler to use singleton metaclass todo
+use builder pattern for making processes        todo
+make builder pattern fluent
+create option for a window click for repeater   todo
+confirm letter attributes                       todo
+confirm letter fold lines                       todo
+scan letter for regex phrases                   todo
+open sqr in FCR                                 todo
+get mail attributes                             todo
+check font sizes                                todo
+upload timesheet screenshot                     todo
+                                           
+move json 'DB' to a real db                     ideas
+open specific email                             ideas
+read email title for keywords                   ideas
+open migration from email                       ideas
+open sqr from email with sqr in name            ideas
+open sqr from email with migration in name      ideas
+========================================================

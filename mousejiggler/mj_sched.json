@@ -1,0 +1,7 @@
+{"days":["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+ "times":[["8:30", "ON"],
+           ["12:00", "OFF"],
+           ["13:00", "ON"],
+           ["17:30", "OFF"]
+          ]
+ }

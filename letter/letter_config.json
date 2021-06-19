@@ -1,0 +1,71 @@
+{"letter type": "",
+"font size": 12,
+"font":"Arial",
+"header/footer":	
+			{"new logo": false,
+			"2nd page header":false,
+			"update header":false,
+			"update footer":false,
+			"has real header":false},
+"parameters":	
+		{"align visible params":false,
+		"optional params clear":false,
+		"From dates < to dates": false,
+		"less than zero on currency":false,
+		"common letter data": false,
+		"lanot_mailmessagevalue to cur":false},
+"language":	
+		{"french":false,
+		"same paragraphs":false,
+		"all common letter data in french":false},
+"attributes":	
+		{"page size":[8.5,11],
+		"no zero sections":false,
+		"folding lines":
+				{"from top of body":0.409,
+				"from left":
+							[0.240,
+							8.140]
+				},
+		"margins":
+				{"left":0,
+			  	"right":0,
+			  	"top":0.5,
+			  	"bottom":0.3},
+		"letter body":	
+				{"left":
+						[1,
+						0.5],
+				"right":
+						[1,
+						0.5],
+				"body size":6.5,
+				"body left":1,
+				"no color":false}
+		},
+"table":	
+		{"align boarders":false,
+		"align cells":	
+				{"text":
+						["left",
+						"center"],
+				"currency":"right"}
+		},
+"versions":	
+		{"retired previous":false,
+		"version name format": "%s%S%d[3]-V%d",
+		"rfrMailGentaxBO clear":false,
+		"render type": "FAST.PDF1"
+		},
+"test":		
+		{"letter generated in otd":false,
+		"test french":false,
+		"compare to prod" : false,
+		"all parameter versions" : false,
+		"all paragraphs": false,
+		"check address block":false,
+		"barcode no overlap":false,
+		"can read scan line":false,
+		"batch print":false
+		}
+}
